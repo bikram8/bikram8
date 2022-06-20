@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikram shahi</h1>
-<h3 align="center">A CSE student Who loves learning new technologies , exploring new fields in and empowering others.</h3>
+<h3 align="center">A CSE student Who loves learning new technologies , exploring new fields  and empowering others.</h3>
 
 - 🌱 I’m currently learning **CCNA , Python , Java , DSA ,Ethical Hacking**
 
