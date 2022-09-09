@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **CCNA , Java , DSA ,Ethical Hacking**
 
-- 💬 Ask me about **CCNA , DSA , Ethical Hacking**
+- 💬 Ask me about **CCNA , DSA , Android Development ,  Ethical Hacking**
 
 - 📫 How to reach me **bikramshahi624@gmail.com**
 
