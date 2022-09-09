@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bikram shahi</h1>
 <h3 align="center">An Under Graduate student Who loves learning, exploring and empowering others.</h3>
 
-- 🌱 I’m currently learning **CCNA , Java , DSA ,Ethical Hacking**
+- 🌱 I’m currently learning **CCNA , Java , DSA ,Android Development , Ethical Hacking**
 
-- 💬 Ask me about **CCNA , DSA , Android Development ,  Ethical Hacking**
+- 💬 Ask me about **CCNA , DSA ,Ethical Hacking**
 
 - 📫 How to reach me **bikramshahi624@gmail.com**
 
