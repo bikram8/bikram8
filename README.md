@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **CCNA , DSA ,Ethical Hacking**
 
-- 📫 How to reach me **bikramshahi624@gmail.com**
+- 📫 How to reach me **bikramshahi228@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
