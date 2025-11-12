@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bikram shahi</h1>
-<h3 align="center">An Under Graduate student Who loves learning, exploring and empowering others.</h3>
+<h3 align="center">A Post Graduate student at IIT Bhubneshwar Who loves learning, exploring and empowering others.</h3>
 
 - 🌱 I’m currently learning **CCNA, Java, DSA, Android Development, Machine Learning, Ethical Hacking**
 
