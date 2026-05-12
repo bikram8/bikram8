@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bikram Shahi</h1>
 
 <h3 align="center">
-M.Tech CSE Student at IIT Bhubaneswar | AI/ML Research Enthusiast | Full Stack Developer | Cybersecurity Researcher
+M.Tech CSE Student at IIT Bhubaneswar | AI/ML Research Enthusiast | Software Developer | Cybersecurity Researcher
 </h3>
 
 ---
